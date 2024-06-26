@@ -1,22 +1,21 @@
 # Site settings
-title: RPC Women's Retreat 2021
+title: RPC Women's Retreat 2024
 email: rpcwomensretreat@gmail.com
-url: https://rpcwomensretreat.com/
-description: "Reformed Presbyterian Church Indiana Women's Retreat"
+url: https://glgwomen.com/
+description: "Reformed Presbyterian Church GLG Women's Retreat"
 keywords: "Christian, Woman, Conference, Presbyterian, Reformed, Retreat"
-subtitle: "Called to Care: Loving the Least of These"
-meta_author: Zachary Blackwood
+subtitle: "Mental Health and Community"
+meta_author: David Daniels 
+speaker: Creation Desautels
+topic: "Mental Health and Community"
+location: '<a href="https://maps.app.goo.gl/okUC3vVoZ8yzvjX46" target="_blank">Sycamore RPC</a>'
+dates: November 1st and 2nd 2024
+opening_registration: Nov 1st 6:00pm
+closing_remarks: Nov 2nd 2:45pm
 
-speaker: Anna Allgaier
-topic: "Called to Care: Loving the Least of These"
-location: '<a href="https://goo.gl/maps/8JEspYaaLqT2" target="_blank">Elkhart RPC</a>'
-dates: November 12-13, 2021
-opening_registration: 5:30pm
-closing_remarks: 2:30pm
+welcome_text: "[[WELCOME TEXT]]"
 
-welcome_text: "We are really looking forward to this year's retreat, in growing in our love for the Lord, and deepening in our knowledge of His Word. We hope to see you there!"
-
-bio: "Anna Allgaier is a believer in Jesus Christ, wife, mother, and human rights activist. Anna grew up in Lafayette, Indiana and graduated from Purdue University, earning dual degrees in English and Human Services. During her time studying Social Work in college, Anna became increasingly burdened for the vulnerable in our world, and convicted that abortion is the world’s greatest human rights injustice..."
+bio: "Creation Desautels is a Licensed Marriage and Family Therapist in the state of Indiana.  She has a MA from Liberty university.  Her clinical background includes community mental health, family preservation services as well as private practice.  Post-degree Creation has pursued extensive specialized training and mentoring in the areas of faith integration, sex-therapy, and a variety of modalities including..." 
 
 bio_link: '<a href="#portfolioModal-1" clasks="portfolio-link" data-toggle="modal">Read more</a>' 
 
@@ -29,10 +28,8 @@ schedule_coming_soon: '
 schedule: "
     <div class='col-lg-4 col-lg-offset-2'>
         <h3 class='text-center'>Friday</h3>
-        <p>5:30-Registration</p>
-        <p>6:00-Dinner</p>
-        <p>6:50-Welcome &amp; Announcements</p>
-        <p>7:00-<b>Session 1</b></p>
+        <p>6:00-Registration</p>
+        <p>7:00-<b>Session 1 </b></p>
         <p>8:15-Organized Activity</p>
         <p>8:45-Games, Fellowship, &amp; Snacks</p>
     </div>
@@ -177,10 +174,6 @@ bing_verify:
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
-
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 18bc9c #80B3FF
@@ -190,7 +183,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: RP Women's Retreat
+  copyright: GLG Women's Retreat
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -199,11 +192,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 2323 17th St
-  - line: Elkhart, Indiana 46517
+  - line: 300 E Mulberry St
+  - line: Elkhart, Indiana 46901
 
 # Credits content
-credits: "RPC Women's Retreat is a ministry of <a href='https://immanuelrpc.com' target='_blank'>Immanuel RPC</a> and <a href='http://www.elkhartrpc.org/' target='_blank'>Elkhart RPC</a>"
+credits: "GLG Women's Retreat is a ministry of <a href='http://www.sycamorerpc.org/' target='_blank'>Sycamore RPC</a>"
 
 # Build settings
 markdown: kramdown

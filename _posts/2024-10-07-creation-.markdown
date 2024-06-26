@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2024-11-01
+img: speakers/creation.jpeg
+alt: image-alt
+description: "Creation Desautels"
+
+---
+
+Creation Desautels is a Licensed Marriage and Family Therapist in the state of Indiana.  She has a MA from Liberty university.  Her clinical background includes community mental health, family preservation services as well as private practice.  Post-degree Creation has pursued extensive specialized training and mentoring in the areas of faith integration, sex-therapy, and a variety of modalities including EFT and AEDP.  Using her clinical skills, she routinely provides long-format and intensive therapeutic services, teaches as an adjunct professor for Jessup University, speaks, coaches, facilitates and is a guest for podcasts and interviews.  Her training and professional activities reflect her passion for exploring the connections between Christianity, sex/sexuality, and mental health. 
+
+Outside her professional roles, Creation is a proud mom to three precocious children, Liberty, Journey and Israel.  She is a voracious reader, avid foodie and constant DIY home renovator.  For the past five years she has been a member of Sycamore RPCNA. 
