@@ -123,7 +123,7 @@ info: '
 
 registration: '
         <span class="registration_link">
-            <a target="_blank" href="">Click here to register!</a>
+        <a target="_blank" href="">Click here to register!</a>
         </span>
         <br /><br />
         <span>
@@ -131,8 +131,8 @@ registration: '
         Early Bird Registration (By October 14th): $55  ($40 Saturday Only)
         Registration (After October 14th): $65 ($50 Saturday Only)
         <p>
-            Mail Check to:
-            Second Reformed Presbyterian Church
+        Mail Check to:
+        Second Reformed Presbyterian Church
         </p>
         <span class="skills">Or bring cash or check (payable to Immanuel Reformed Presybterian Church) with you to the retreat.</span>
 '
@@ -163,7 +163,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://www.facebook.com/rpcwomensretreat
+url: https://www.facebook.com/rpcwomensretreat
 
 # Postal address (add as many lines as necessary)
 address:
