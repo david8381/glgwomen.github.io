@@ -28,20 +28,21 @@ schedule_coming_soon: '
 schedule: "
     <div class='col-lg-4 col-lg-offset-2'>
         <h3 class='text-center'>Friday</h3>
-        <p>6:00-Registration</p>
+        <p>2:30-Registration</p>
+        <p>6:00-Dinner (Provided)</p>
         <p>7:00-<b>Session 1 </b></p>
         <p>8:15-Organized Activity</p>
         <p>8:45-Games, Fellowship, &amp; Snacks</p>
     </div>
     <div class='col-lg-4'>
         <h3 class='text-center'>Saturday</h3>
-        <p>8:00-Light Breakfast</p>
+        <p>8:00-Light Breakfast (Provided)</p>
         <p>9:00-<b>Session 2</b></p>
         <p>10:00-Individual Reflection Time</p>
-        <p>11:00-Brunch</p>
+        <p>11:00-Brunch (Food Provided)</p>
         <p>12:00-<b>Session 3</b></p>
         <p>1:00-Fellowship Time</p>
-        <p>1:45-Sharing and Prayer</p>
+        <p>Q & A With Creation</p>
         <p>2:45-Closing Remarks and Goodbyes</p>
     </div>
 "
@@ -90,54 +91,29 @@ info: '
     <div class="row">
         <div class="col-lg-4 col-lg-offset-2">
             <div class="padding"></div>
-            <p><b>What to Bring</b>: Your own bedding (twin air mattresses will be available), including linens and blankets (if you plan to stay at the church), Bible, Blue Psalter, pen, notebook, personal items, flashlight, towel and your favorite game.</p>
+            <p><b>What to Bring</b>: Your own bedding: twin sheets, blankets, pillows (A twin air mattress will be available for those staying at the church.) Note: no showers available at church. You will need bible, pen, notebook, personal items, and favorite game.</p>
             <p><b>Arrival:</b> Check in at the registration table at the back entrance and settle in.</p>
             <p><b>Meals:</b> Dinner on Friday and a light breakfast and brunch on Saturday will be provided. </p>
             <p><b>Accommodations:</b> 
-                The Elkhart church has been blessed with lots of space! So, in an attempt to make the retreat more affordable, we are planning to use the church building as our retreat center this year! Classrooms will be available for sleeping space, and the church does have a couple of showers available on site. However, there will be limited availability for staying at the church building. First-come, first-serve.
-
-                <br /> <br />
-
-                If you prefer to stay at a hotel, you may book your own hotel room just down the road. These are some nearby hotels that we recommend:
-                <ul class="big">
-                    <li>
-                        <a href="https://www.choicehotels.com/indiana/elkhart/comfort-suites-hotels/in243?source=gyxt" target="_blank">Comfort Suites South</a><br />
-                        27838 Co Rd 24 <br />
-                        Elkhart, IN 46517
-                    </li>
-                    <li>
-                        <a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/elkhart/ekins/hoteldetail" target="_blank">Holiday Inn Express and Suites Elkhart-South</a> <br />
-                        3610 S Nappanee St <br />
-                        Elkhart, IN 46517
-                    </li>
-                    <li>
-                        <a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/goshen/gshgo/hoteldetail" target="_blank">Holiday Inn Express & Suites Goshen</a><br />
-                        1415 Lincolnway East <br />
-                        Goshen, Indiana 46526
-                    </li>
-                </ul>
+                To keep costs down, Sycamore Reformed Presbyeterian Church is hosting the Women's retreat again. There is limited availability to sleep at the building at no cost on a first-come, first-serve basis.
             </p>
         </div>
         <div class="col-lg-4 text-center">
-            <h3>Price: $30</h3>
             <h3>Questions?</h3>
             <p>Please direct questions to:</p>
             <p><a href="mailto:rpcwomensretreat@gmail.com">RPCWomensRetreat@gmail.com</a></p>
             <p>or</p>
             <p>
-            Kathryn Dean (765) 337-3431
-            </p>
-            <p>
-            Jessica Dean (574) 520-7655
-            </p>
-            <p>
             Addie Bell (765) 438-6198
+            </p>
+            <p>
+            Michele Daniels (765) 441-2503
             </p>
             <p>
             Ruth Rowe (812) 241-2468
             </p>
             <p>
-            Anna Allgaier (765) 714-0868
+            Tricia Watkins (765) 667-9981
             </p>
             <p><b>Finances an issue?</b> Please talk to your local church about financial assistance.</p>
         </div>
@@ -147,18 +123,17 @@ info: '
 
 registration: '
         <span class="registration_link">
-            <a target="_blank" href="https://forms.gle/JcQc8wQK1iDEoNNF6">Click here to register!</a>
+            <a target="_blank" href="">Click here to register!</a>
         </span>
         <br /><br />
         <span>
         <p>
-            If you have already registered, you can click here to make your payment via PayPal:
+        Early Bird Registration (By October 14th): $55  ($40 Saturday Only)
+        Registration (After October 14th): $65 ($50 Saturday Only)
+        <p>
+            Mail Check to:
+            Second Reformed Presbyterian Church
         </p>
-            <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AM9JHVB3CP2WU" target="_blank">
-              <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif"/>
-            </a>
-        </p>
-        </span>
         <span class="skills">Or bring cash or check (payable to Immanuel Reformed Presybterian Church) with you to the retreat.</span>
 '
 
