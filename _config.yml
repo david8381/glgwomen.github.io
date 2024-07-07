@@ -1,5 +1,5 @@
 # Site settings
-title: RPC Women's Retreat 2024
+title: GLG Women's Retreat 2024
 email: rpcwomensretreat@gmail.com
 url: https://glgwomen.com/
 description: "Reformed Presbyterian Church GLG Women's Retreat"
@@ -169,11 +169,12 @@ url: https://www.facebook.com/rpcwomensretreat
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 300 E Mulberry St
-  - line: Elkhart, Indiana 46901
-
+  - line: 4800 N. Michigan Road
+  - line: Indianapolis, Indiana 46228
+  
 # Credits content
-credits: "GLG Women's Retreat is a ministry of <a href='http://www.sycamorerpc.org/' target='_blank'>Sycamore RPC</a>"
+credits: "GLG Women's Retreat is a ministry of 
+<a href='http://www.sycamorerpc.org/' target='_blank'>Sycamore RPC</a> and <a href='http://www.2rp.church/' target='_blank'>2RP</a>"
 
 # Build settings
 markdown: kramdown
