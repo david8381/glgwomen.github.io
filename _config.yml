@@ -157,6 +157,12 @@ registration: '
         <span class="skills">Or bring cash or check (payable to Second Reformed Presbyterian Church) with you to the retreat.</span>
 '
 
+recommendation: '
+        <span class="registration_link">
+        <a target="_blank" href="https://2rp.church/2024-glg-womens-retreat-book-recommendations/">Book Recommendations from our Speakers</a>
+        </span>
+'
+
 # Google webmaster tools
 google_verify:
 
