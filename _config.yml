@@ -18,7 +18,7 @@ bio: "Sharon Sampson is a member of the Grace RP Church in Gibsonia, PA, where h
 
 bio_link: '<a href="#portfolioModal-1" clasks="portfolio-link" data-toggle="modal">Read more</a>' 
 
-schedule_coming_soon: '
+schedule_soon: '
     <div class="col-lg-8 col-lg-offset-2 text-center">
         <h3>Coming Soon!</h3>
     </div>
@@ -47,7 +47,7 @@ schedule: "
     </div>
 "
 
-menu_coming_soon: '
+menu_soon: '
     <div class="col-lg-8 col-lg-offset-2 text-center">
         <h3>Coming Soon!</h3>
     </div>
@@ -79,6 +79,9 @@ menu: '
             <p>Yogurt Bar</p>
             <p>Coffee/Milk/Juice</p>
     </div>
+'
+
+info_soon: '
 '
 
 info: '
@@ -130,6 +133,9 @@ info: '
 '
 
 
+registration_soon: '
+'
+
 registration: '
         <span class="registration_link">
         <a target="_blank" href="https://2rp.church/rpcwomensretreat/">Click here to register!</a>
@@ -148,6 +154,8 @@ registration: '
         Make Check Payable to Second Reformed Presbyterian Church<br />
         </p>
         <span class="skills">Or bring cash or check (payable to Second Reformed Presbyterian Church) with you to the retreat.</span>
+'
+recommendation_soon: '
 '
 
 recommendation: '
