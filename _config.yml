@@ -82,6 +82,8 @@ menu: '
 '
 
 info_soon: '
+    <div class="row">
+    </div>
 '
 
 info: '
@@ -134,6 +136,9 @@ info: '
 
 
 registration_soon: '
+        <span class="registration_link">
+        Coming Soon!
+        </span>
 '
 
 registration: '
@@ -156,6 +161,9 @@ registration: '
         <span class="skills">Or bring cash or check (payable to Second Reformed Presbyterian Church) with you to the retreat.</span>
 '
 recommendation_soon: '
+        <span class="registration_link">
+        Coming Soon!
+        </span>
 '
 
 recommendation: '
