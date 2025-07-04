@@ -26,23 +26,23 @@ schedule_soon: '
 
 schedule: "
     <div class='col-lg-4 col-lg-offset-2'>
-        <h3 class='text-center'>Friday</h3>
-        <p>2:30-Early Arrival Fellowship and Game Time</p>
+        <h3 class='text-center'>Friday, October 11th</h3>
+        <p>2:30-Early Arrival Fellowship</p>
         <p>5:00-Registration Opens</p>
-        <p>6:00-Dinner (Provided)</p>
+        <p>6:00-Dinner</p>
         <p>7:00-<b>Session 1 </b></p>
         <p>8:15-Organized Activity</p>
         <p>8:45-Games, Fellowship, &amp; Snacks</p>
     </div>
     <div class='col-lg-4'>
-        <h3 class='text-center'>Saturday</h3>
-        <p>8:00-Light Breakfast (Provided)</p>
+        <h3 class='text-center'>Saturday, October 12th</h3>
+        <p>8:00-Light Breakfast</p>
         <p>9:00-<b>Session 2</b></p>
         <p>10:00-Individual Reflection Time</p>
         <p>11:00-Brunch (Provided)</p>
         <p>12:00-<b>Session 3</b></p>
         <p>1:00-Fellowship Time</p>
-        <p>Q & A With Creation</p>
+        <p>1:45-Testimony</p>
         <p>2:45-Closing Remarks and Goodbyes</p>
     </div>
 "
@@ -99,7 +99,11 @@ info: '
 
             <p>
             <b>What to Bring: </b>
-            Bible, Psalter, pen, notebook, personal items, and a favorite game. If you are staying at the church bring your own bedding: twin sheets, blankets, pillows (A twin air mattress will be available for those staying at the church.) Note: no showers available at church.
+            1. Your own bedding (air mattresses will be provided)
+            2. Bible and Psalter
+            3. Notebook and Pen
+            4. Personal Items
+            5. Flashlight
             </p>
 
             <p><b>Arrival: </b>
@@ -112,24 +116,24 @@ info: '
             </p>
 
             <p><b>Accommodations:</b> 
-                To keep costs down, Sycamore Reformed Presbyterian Church is hosting the Women''s Retreat again. There is limited availability to sleep at the building at no cost on a first-come, first-serve basis.
+            The retreat is being held at Sycamore RP Church (300 E Mulberry Street, Kokomo, IN 46901). Classrooms will be available for sleeping space (with air mattresses). There is limited availability for staying at the church. First come, first serve. If you plan on staying at a hotel you must schedule that on your own. We recommend the Hampton Inn & Suites in Kokomo. 
             </p>
         </div>
         <div class="col-lg-4 text-center">
             <h3>Questions?</h3>
-            <p>Please direct questions to:</p>
+            <p>Please email all questions to:</p>
             <p><a href="mailto:rpcwomensretreat@gmail.com">RPCWomensRetreat@gmail.com</a></p>
-            <p>or</p>
-            <p>
-            Addie Bell (765) 438-6198
-            </p>
-            <p>
-            Ruth Rowe (812) 241-2468
-            </p>
-            <p>
-            Tricia Watkins (765) 667-9981
-            </p>
             <p><b>Finances an issue?</b> Please talk to your local church about financial assistance.</p>
+        </div>
+        <div class="col-lg-4 text-center">
+            <h3>More Info:</h3>
+            Follow us on our Facebook page for more up to date info @rpcwomensretreat
+        </div>
+        <div class="col-lg-4 text-center">
+            <h3>Location:</h3>
+            Sycamore RPC
+            300 E Mulberry St
+            Kokomo, IN 46901
         </div>
     </div>
 '
@@ -147,18 +151,15 @@ registration: '
         </span>
         <br /><br />
         <p>
-        Early Bird Registration (By October 14th): $55  ($40 Saturday Only)
-        </p>
-        <p>
-        Registration (After October 14th): $65 ($50 Saturday Only)
+        $55 by September 20th ($40 for Saturday only)
+        $65 after September 20th ($50 for Saturday Only)
         </p>
         <p>
         Mail Check to:
-        Ruth Rowe<br />
-        135 N Seminary St, Bloomfield, IN 47424<br />
+        135 N Seminary St, Bloomfield, IN 47424<br/>
+        or pay upon arrival (cash or check.)
         Make Check Payable to Second Reformed Presbyterian Church<br />
         </p>
-        <span class="skills">Or bring cash or check (payable to Second Reformed Presbyterian Church) with you to the retreat.</span>
 '
 recommendation_soon: '
         <span class="registration_link">
