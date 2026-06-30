@@ -1,22 +1,22 @@
 # Site settings
-title: GLG Women's Retreat 2025
+title: GLG Women's Retreat 2026
 email: rpcwomensretreat@gmail.com
 url: https://glgwomen.com/
 description: "Reformed Presbyterian Church GLG Women's Retreat"
 keywords: "Christian, Woman, Conference, Presbyterian, Reformed, Retreat"
-subtitle: "Who Am I? Getting to the Heart of our Identity"
-meta_author: David Daniels 
-speaker: Sharon Sampson
-topic: "Who Am I? Getting to the Heart of our Identity"
-location: '<a href="https://maps.app.goo.gl/okUC3vVoZ8yzvjX46" target="_blank">Sycamore RPC</a>'
-dates: October 10th and 11th 2025
-opening_registration:  July 4th 2025
+subtitle: "Facing Hard Things Biblically with an Examined Heart"
+meta_author: David Daniels
+speaker: June Whitla
+topic: "Facing Hard Things Biblically with an Examined Heart"
+location: '<a href="https://maps.google.com/?q=1100+W+Jeffras+Ave+Marion+IN+46952" target="_blank">Marion RPC (1100 W Jeffras Ave, Marion, IN 46952)</a>'
+dates: November 6th and 7th 2026
+opening_registration:  August 1st 2026
 
 welcome_text: ""
 
-bio: "Sharon Sampson is a member of the Grace RP Church in Gibsonia, PA, where her husband Mark serves as a ruling elder. She enjoys teaching the 1st-3rd grade church school class and helping to lead the Titus 2 women’s group. Sharon earned a Master of Theological Studies degree (biblical counseling concentration) from RPTS where she also worked for ten years." 
+bio: ""
 
-bio_link: '<a href="#portfolioModal-1" clasks="portfolio-link" data-toggle="modal">Read more</a>' 
+bio_link: ''
 
 schedule_soon: '
     <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -177,7 +177,7 @@ bing_verify:
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary-rgb: "24,188,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
