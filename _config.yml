@@ -25,26 +25,30 @@ schedule_soon: '
 '
 
 schedule: "
-    <div class='col-lg-4 col-lg-offset-2'>
-        <h3 class='text-center'>Friday, November 6th</h3>
-        <p>2:30-Early Arrival (Fellowship)</p>
-        <p>5:00 p.m.-Registration Starts</p>
-        <p>6:00 p.m.-Dinner</p>
-        <p>7:00 p.m.-<b>Session 1</b></p>
-        <p>8:15 p.m.-Activity</p>
-        <p>8:45 p.m.-Games &amp; Snack</p>
+    <div class='col-lg-4 col-lg-offset-2 text-center'>
+        <h3 style='white-space:nowrap'>Friday, November 6th</h3>
+        <table style='margin:0 auto; text-align:left;'>
+            <tr><td style='text-align:right; white-space:nowrap; padding-right:12px;'>2:30 p.m.</td><td>Early Arrival (Fellowship)</td></tr>
+            <tr><td style='text-align:right; white-space:nowrap; padding-right:12px;'>5:00 p.m.</td><td>Registration Starts</td></tr>
+            <tr><td style='text-align:right; white-space:nowrap; padding-right:12px;'>6:00 p.m.</td><td>Dinner</td></tr>
+            <tr><td style='text-align:right; white-space:nowrap; padding-right:12px;'>7:00 p.m.</td><td><b>Session 1</b></td></tr>
+            <tr><td style='text-align:right; white-space:nowrap; padding-right:12px;'>8:15 p.m.</td><td>Activity</td></tr>
+            <tr><td style='text-align:right; white-space:nowrap; padding-right:12px;'>8:45 p.m.</td><td>Games &amp; Snack</td></tr>
+        </table>
     </div>
-    <div class='col-lg-4'>
-        <h3 class='text-center'>Saturday, November 7th</h3>
-        <p>8:00-Continental Breakfast</p>
-        <p>9:00-<b>Session 2</b></p>
-        <p>10:00-Reflection</p>
-        <p>10:30-Fellowship Time</p>
-        <p>11:00-Brunch</p>
-        <p>12:00-<b>Session 3</b></p>
-        <p>1:00-Fellowship Time</p>
-        <p>1:45-Testimony and Prayer</p>
-        <p>2:45-Closing Remarks and Goodbyes</p>
+    <div class='col-lg-4 text-center'>
+        <h3 style='white-space:nowrap'>Saturday, November 7th</h3>
+        <table style='margin:0 auto; text-align:left;'>
+            <tr><td style='text-align:right; white-space:nowrap; padding-right:12px;'>8:00 a.m.</td><td>Continental Breakfast</td></tr>
+            <tr><td style='text-align:right; white-space:nowrap; padding-right:12px;'>9:00 a.m.</td><td><b>Session 2</b></td></tr>
+            <tr><td style='text-align:right; white-space:nowrap; padding-right:12px;'>10:00 a.m.</td><td>Reflection</td></tr>
+            <tr><td style='text-align:right; white-space:nowrap; padding-right:12px;'>10:30 a.m.</td><td>Fellowship Time</td></tr>
+            <tr><td style='text-align:right; white-space:nowrap; padding-right:12px;'>11:00 a.m.</td><td>Brunch</td></tr>
+            <tr><td style='text-align:right; white-space:nowrap; padding-right:12px;'>12:00 p.m.</td><td><b>Session 3</b></td></tr>
+            <tr><td style='text-align:right; white-space:nowrap; padding-right:12px;'>1:00 p.m.</td><td>Fellowship Time</td></tr>
+            <tr><td style='text-align:right; white-space:nowrap; padding-right:12px;'>1:45 p.m.</td><td>Testimony and Prayer</td></tr>
+            <tr><td style='text-align:right; white-space:nowrap; padding-right:12px;'>2:45 p.m.</td><td>Closing Remarks and Goodbyes</td></tr>
+        </table>
     </div>
 "
 
