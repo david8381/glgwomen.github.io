@@ -26,23 +26,24 @@ schedule_soon: '
 
 schedule: "
     <div class='col-lg-4 col-lg-offset-2'>
-        <h3 class='text-center'>Friday, October 11th</h3>
-        <p>2:30-Early Arrival Fellowship</p>
-        <p>5:00-Registration Opens</p>
-        <p>6:00-Dinner</p>
-        <p>7:00-<b>Session 1 </b></p>
-        <p>8:15-Organized Activity</p>
-        <p>8:45-Games, Fellowship, &amp; Snacks</p>
+        <h3 class='text-center'>Friday, November 6th</h3>
+        <p>2:30-Early Arrival (Fellowship)</p>
+        <p>5:00 p.m.-Registration Starts</p>
+        <p>6:00 p.m.-Dinner</p>
+        <p>7:00 p.m.-<b>Session 1</b></p>
+        <p>8:15 p.m.-Activity</p>
+        <p>8:45 p.m.-Games &amp; Snack</p>
     </div>
     <div class='col-lg-4'>
-        <h3 class='text-center'>Saturday, October 12th</h3>
-        <p>8:00-Light Breakfast</p>
+        <h3 class='text-center'>Saturday, November 7th</h3>
+        <p>8:00-Continental Breakfast</p>
         <p>9:00-<b>Session 2</b></p>
-        <p>10:00-Individual Reflection Time</p>
-        <p>11:00-Brunch (Provided)</p>
+        <p>10:00-Reflection</p>
+        <p>10:30-Fellowship Time</p>
+        <p>11:00-Brunch</p>
         <p>12:00-<b>Session 3</b></p>
         <p>1:00-Fellowship Time</p>
-        <p>1:45-Testimony</p>
+        <p>1:45-Testimony and Prayer</p>
         <p>2:45-Closing Remarks and Goodbyes</p>
     </div>
 "
@@ -99,19 +100,15 @@ info: '
 
             <p>
             <b>What to Bring: </b><br>
-            1. Your own bedding (air mattresses will be provided) <br>
+            1. Your own bedding (twin size air mattresses will be provided, but you're welcome to bring your own) <br>
             2. Bible and Psalter <br>
-            3. Notebook and Pen <br>
+            3. Pen (notepaper will be provided) <br>
             4. Personal Items <br>
-            5. Flashlight <br>
+            5. Games <br>
             </p>
 
-            <p><b>Arrival: </b>
-            For early fellowship time come down to the basement and enjoy games and fellowship. Registration will open at 5:00 and is located at the main floor entrance to the sanctuary.
-            </p>
-
-            <p><b>Accommodations:</b> 
-            The retreat is being held at Sycamore RP Church (300 E Mulberry Street, Kokomo, IN 46901). Classrooms will be available for sleeping space (with air mattresses). There is limited availability for staying at the church. First come, first serve. If you plan on staying at a hotel you must schedule that on your own. We recommend the Hampton Inn & Suites in Kokomo. 
+            <p><b>Accommodations:</b>
+            The retreat is being held at Marion RP Church (1100 W Jeffras Ave, Marion, IN 46952). Classrooms will be available for sleeping space. There is limited availability for staying at the church. First come, first serve. If you plan on staying at a hotel you must schedule that on your own.
             </p>
         </div>
         <div class="col-lg-4 text-center">
@@ -126,9 +123,9 @@ info: '
         </div>
         <div class="col-lg-4 text-center">
             <h3>Location:</h3>
-            Sycamore RPC
-            300 E Mulberry St
-            Kokomo, IN 46901
+            Marion RPC
+            1100 W Jeffras Ave
+            Marion, IN 46952
         </div>
     </div>
 '
@@ -146,14 +143,12 @@ registration: '
         </span>
         <br /><br />
         <p>
-        $55 by September 20th ($40 for Saturday only)
-        $65 after September 20th ($50 for Saturday Only)
+        $55 ($40 for Saturday only)
         </p>
         <p>
-        Mail Check to:
+        Please send checks to:
         135 N Seminary St, Bloomfield, IN 47424<br/>
-        or pay upon arrival (cash or check.)
-        Make Check Payable to Second Reformed Presbyterian Church<br />
+        or pay at the retreat.<br />
         </p>
 '
 recommendation_soon: '
