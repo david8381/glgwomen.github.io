@@ -14,7 +14,11 @@ opening_registration:  August 1st 2026
 
 welcome_text: ""
 
-bio: ""
+bio: "
+    <p>June Whitla is married to David and they have five children (Katheryn &ndash; 21, Ethan &ndash; 19, Calvin and Owen &ndash; 17, and Cameron &ndash; 13). She grew up in the Columbus RP Church, and her husband pastored Southside Indianapolis RPC for eight years before the Lord led the family to Pittsburgh, where David serves as Professor of Church History at the RP Seminary.</p>
+    <p>Along with being a wife and mother, June homeschools their three youngest children. She also works at the RP Seminary coordinating donor relationships and overseeing seminary events. She is currently working on her Masters in Theological Studies at RPTS with a concentration in Biblical Counseling.</p>
+    <p>June loves connecting with people and sharing the good news of the gospel as the certain hope and weightiest encouragement for Christians and the most exciting truth to share with a lost world.</p>
+"
 
 bio_link: ''
 
@@ -104,11 +108,13 @@ info: '
 
             <p>
             <b>What to Bring: </b><br>
-            1. Your own bedding (twin size air mattresses will be provided, but you''re welcome to bring your own) <br>
+            1. Your own bedding (twin size mattresses will be provided, but you''re welcome to bring your own) <br>
             2. Bible and Psalter <br>
-            3. Pen (notepaper will be provided) <br>
-            4. Personal Items <br>
-            5. Games <br>
+            3. Personal Items <br>
+            4. Games <br>
+            5. Cash/check for the Book Table <br>
+            <br>
+            Notepaper and pens will be provided.
             </p>
 
             <p><b>Accommodations:</b>
@@ -152,7 +158,8 @@ registration: '
         <p>
         Please send checks to:
         135 N Seminary St, Bloomfield, IN 47424<br/>
-        or pay at the retreat.<br />
+        or pay at the retreat (cash or check only).<br />
+        Make checks payable to 2RP.<br />
         </p>
 '
 recommendation_soon: '
@@ -196,8 +203,7 @@ address:
   - line: Indianapolis, Indiana 46228
   
 # Credits content
-credits: "GLG Women's Retreat is a ministry of 
-<a href='https://www.sycamorerpc.org/' target='_blank'>Sycamore RPC</a> and <a href='https://www.2rp.church/' target='_blank'>2RP</a>"
+credits: ""
 
 # Build settings
 markdown: kramdown
